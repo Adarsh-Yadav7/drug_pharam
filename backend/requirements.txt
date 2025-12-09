@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+pandas
+python-multipart
+reportlab          # PDF banane ke liye (simple)
+jinja2             # HTML template for report
+langchain
+langchain-community
+faiss-cpu
+sentence-transformers
+
+# ----- LLM Client (Groq) -----
+groq

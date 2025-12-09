@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Pharma Agentic AI – EY Hackathon Prototype</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Fonts & Icons -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="assets/css/reset.css" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+
+  <!-- Chart.js (Radar Chart) -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+  <!-- Top Navbar -->
+  <header class="top-nav">
+    <div class="logo-block">
+      <div class="logo-dot"></div>
+      <div class="logo-text">
+        <span class="brand">Pharma Agentic AI</span>
+        <span class="tagline">EY Hackathon 6.0 • Portfolio Planning Copilot</span>
+      </div>
+    </div>
+
+    <div class="top-actions">
+      <button id="btn-download-last" class="btn btn-ghost btn-report" disabled>
+        <i class="fa-solid fa-file-arrow-down"></i> Latest Report
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Layout Grid -->
+  <main class="layout">
+
+    <!-- LEFT PANEL -->
+    <section class="panel panel-left">
+      <div class="panel-header">
+        <h2 class="panel-title">Portfolio Question</h2>
+        <p class="panel-subtitle">
+          Ask strategic prompts. Master Agent orchestrates Market, EXIM, Patents, Trials,
+          Internal Insights & Guidelines.
+        </p>
+      </div>
+
+      <form id="query-form" class="query-form">
+        <label class="field-label">Strategic prompt</label>
+        <textarea id="prompt-input" class="field-textarea" rows="4"
+          placeholder="Perform opportunity assessment for MOLX in Indian Asthma market..."></textarea>
+
+        <div class="field-grid">
+          <div><label class="field-label">Molecule</label><input id="molecule-input" class="field-input" /></div>
+          <div><label class="field-label">Therapy area</label><input id="therapy-input" class="field-input" /></div>
+          <div><label class="field-label">Region / Country</label><input id="region-input" class="field-input" /></div>
+        </div>
+
+        <div class="field-block">
+          <label class="field-label">Which agents to run?</label>
+          <div class="chip-row">
+            <button type="button" class="chip chip-selected" data-task="market"><i class="fa-solid fa-chart-line"></i> Market</button>
+            <button type="button" class="chip chip-selected" data-task="exim"><i class="fa-solid fa-globe"></i> EXIM</button>
+            <button type="button" class="chip chip-selected" data-task="patent"><i class="fa-solid fa-scale-balanced"></i> Patents</button>
+            <button type="button" class="chip chip-selected" data-task="trials"><i class="fa-solid fa-vial-circle-check"></i> Trials</button>
+            <button type="button" class="chip chip-selected" data-task="internal"><i class="fa-solid fa-file-medical"></i> Internal Docs</button>
+            <button type="button" class="chip chip-selected" data-task="web"><i class="fa-solid fa-network-wired"></i> Guidelines</button>
+          </div>
+        </div>
+
+        <div class="field-block">
+          <div class="field-label-row">
+            <span class="field-label">Demo scenarios</span>
+            <button type="button" id="btn-clear-form" class="link-btn"><i class="fa-solid fa-eraser"></i> Clear</button>
+          </div>
+          <div class="preset-row">
+            <button type="button" class="preset-btn" data-preset="asthma-india">MOLX • Asthma • India</button>
+            <button type="button" class="preset-btn" data-preset="lung-au">MOLH1 • Lung AU</button>
+            <button type="button" class="preset-btn" data-preset="ckd-india">MOL2 • CKD India</button>
+            <button type="button" class="preset-btn" data-preset="resp-global">MOLR3 • Respiratory Global</button>
+          </div>
+        </div>
+
+        <div class="form-footer">
+          <button type="submit" class="btn btn-primary" id="btn-run-query">
+            <span class="btn-text"><i class="fa-solid fa-play"></i> Run Agentic Analysis</span>
+            <span class="btn-spinner" id="loading-spinner" hidden><i class="fa-solid fa-circle-notch fa-spin"></i></span>
+          </button>
+        </div>
+      </form>
+    </section>
+
+    <!-- RIGHT PANEL -->
+    <section class="panel panel-right">
+
+      <!-- EXECUTIVE SUMMARY -->
+      <section id="summary-section" class="summary-card summary-empty">
+        <div class="summary-header">
+          <h2>Executive Summary</h2>
+          <p id="summary-context" class="summary-context" hidden></p>
+          <span id="score-badge" class="score-badge" hidden></span>
+        </div>
+
+        <p id="summary-text" class="summary-placeholder">
+          Run a query to see opportunity assessment, whitespace & risks here.
+        </p>
+
+        <div class="summary-meta">
+          <div class="summary-meta-item">
+            <span class="meta-label">Run Status</span>
+            <span class="meta-value" id="api-status-chip">Idle</span>
+          </div>
+          <div class="summary-meta-item">
+            <span class="meta-label">Updated</span>
+            <span class="meta-value" id="api-status-label">–</span>
+          </div>
+          <div class="summary-meta-item">
+            <span class="meta-label">Agents Used</span>
+            <span class="meta-value" id="agents-chip">–</span>
+          </div>
+        </div>
+
+        <div class="summary-chart-container">
+          <canvas id="opportunity-radar"></canvas>
+            <!-- NEW: legend / signals box -->
+  <div id="radar-legend" class="radar-legend">
+    <!-- JS se fill hoga -->
+        </div>
+      </section>
+
+      <!-- AGENT RESULTS -->
+      <section id="results-section" class="results-section" hidden>
+        <div id="results-tabs" class="results-tabs"></div>
+        <div id="results-body" class="results-body"></div>
+      </section>
+
+    </section>
+  </main>
+
+  <!-- Toast -->
+  <div id="toast" class="toast" hidden><span id="toast-message"></span></div>
+
+  <!-- SCRIPTS -->
+  <script src="assets/js/api.js"></script>
+  <script src="assets/js/ui.js"></script>
+  <script src="assets/js/main.js"></script>
+
+</body>
+</html>

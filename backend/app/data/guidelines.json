@@ -1,0 +1,212 @@
+{
+  "Asthma": {
+    "guidelines": [
+      "ASTHMA 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For asthma, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of asthma management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in asthma patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in asthma, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with asthma in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for asthma, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for asthma patients."
+    ]
+  },
+  "COPD": {
+    "guidelines": [
+      "COPD 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For copd, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of copd management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in copd patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in copd, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with copd in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for copd, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for copd patients."
+    ]
+  },
+  "Respiratory": {
+    "guidelines": [
+      "RESPIRATORY 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For respiratory, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of respiratory management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in respiratory patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in respiratory, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with respiratory in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for respiratory, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for respiratory patients."
+    ]
+  },
+  "Type 2 Diabetes": {
+    "guidelines": [
+      "TYPE 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For type 2 diabetes, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of type 2 diabetes management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in type 2 diabetes patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in type 2 diabetes, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with type 2 diabetes in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for type 2 diabetes, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for type 2 diabetes patients."
+    ]
+  },
+  "Hypertension": {
+    "guidelines": [
+      "HYPERTENSION 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For hypertension, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of hypertension management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in hypertension patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in hypertension, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with hypertension in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for hypertension, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for hypertension patients."
+    ]
+  },
+  "Breast Cancer": {
+    "guidelines": [
+      "BREAST 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For breast cancer, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of breast cancer management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in breast cancer patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in breast cancer, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with breast cancer in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for breast cancer, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for breast cancer patients."
+    ]
+  },
+  "Lung Cancer": {
+    "guidelines": [
+      "LUNG 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For lung cancer, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of lung cancer management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in lung cancer patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in lung cancer, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with lung cancer in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for lung cancer, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for lung cancer patients."
+    ]
+  },
+  "Rheumatoid Arthritis": {
+    "guidelines": [
+      "RHEUMATOID 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For rheumatoid arthritis, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of rheumatoid arthritis management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in rheumatoid arthritis patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in rheumatoid arthritis, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with rheumatoid arthritis in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for rheumatoid arthritis, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for rheumatoid arthritis patients."
+    ]
+  },
+  "Psoriasis": {
+    "guidelines": [
+      "PSORIASIS 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For psoriasis, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of psoriasis management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in psoriasis patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in psoriasis, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with psoriasis in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for psoriasis, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for psoriasis patients."
+    ]
+  },
+  "Depression": {
+    "guidelines": [
+      "DEPRESSION 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For depression, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of depression management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in depression patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in depression, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with depression in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for depression, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for depression patients."
+    ]
+  },
+  "Migraine": {
+    "guidelines": [
+      "MIGRAINE 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For migraine, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of migraine management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in migraine patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in migraine, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with migraine in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for migraine, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for migraine patients."
+    ]
+  },
+  "Chronic Kidney Disease": {
+    "guidelines": [
+      "CHRONIC 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For chronic kidney disease, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of chronic kidney disease management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in chronic kidney disease patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in chronic kidney disease, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with chronic kidney disease in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for chronic kidney disease, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for chronic kidney disease patients."
+    ]
+  },
+  "Heart Failure": {
+    "guidelines": [
+      "HEART 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For heart failure, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of heart failure management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in heart failure patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in heart failure, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with heart failure in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for heart failure, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for heart failure patients."
+    ]
+  },
+  "Osteoporosis": {
+    "guidelines": [
+      "OSTEOPOROSIS 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For osteoporosis, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of osteoporosis management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in osteoporosis patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in osteoporosis, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with osteoporosis in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for osteoporosis, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for osteoporosis patients."
+    ]
+  },
+  "Inflammatory Bowel Disease": {
+    "guidelines": [
+      "INFLAMMATORY 2024 guideline recommends step-wise treatment based on disease severity and patient phenotype.",
+      "For inflammatory bowel disease, combination therapy is recommended when monotherapy does not achieve adequate control.",
+      "Non-pharmacological measures (lifestyle, diet, exercise) are emphasized as core components of inflammatory bowel disease management.",
+      "Periodic monitoring and risk stratification are recommended to tailor therapy in inflammatory bowel disease patients."
+    ],
+    "rwe": [
+      "Real-world evidence shows suboptimal adherence to guideline-directed therapy in inflammatory bowel disease, especially in low-resource settings.",
+      "Access, affordability, and health literacy remain key barriers for patients living with inflammatory bowel disease in emerging markets.",
+      "Registry data suggest substantial regional variation in outcomes for inflammatory bowel disease, reflecting differences in healthcare infrastructure.",
+      "Patient-reported outcomes highlight persistent unmet needs in symptom control and quality of life for inflammatory bowel disease patients."
+    ]
+  }
+}

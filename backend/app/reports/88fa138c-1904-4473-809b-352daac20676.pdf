@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            line-height: 1.6;
+        }
+        h1 {
+            font-size: 28px;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        h2 {
+            font-size: 22px;
+            margin-top: 30px;
+            color: #1a73e8;
+        }
+        h3 {
+            font-size: 18px;
+            margin-top: 20px;
+            color: #444;
+        }
+        p {
+            font-size: 15px;
+        }
+        ul {
+            margin-left: 20px;
+            font-size: 15px;
+        }
+        .section {
+            margin-bottom: 25px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #ddd;
+        }
+        .meta-box {
+            background: #f5f5f5;
+            padding: 12px;
+            border-radius: 6px;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Pharma Agentic AI – Analysis Report</h1>
+
+<div class="meta-box">
+    <p><b>Query:</b> User Query</p>
+    <p><b>Generated on:</b> 07 Dec 2025, 02:54 PM</p>
+    <p><b>Report ID:</b> 88fa138c-1904-4473-809b-352daac20676</p>
+</div>
+
+<h2>Executive Summary</h2>
+<p>Found 234 clinical trials matching the criteria.</p>
+
+
+<div class="section">
+    <h2>Clinical Trials Agent</h2>
+    <p><b>Summary:</b> Found 234 clinical trials matching the criteria.</p>
+
+    
+        <h3>Details:</h3>
+        <ul>
+            
+                <li><b>table:</b> [{'trial_id': 'CT-00007', 'molecule': 'MOLB', 'indication': 'Hypertension', 'phase': 'Phase III', 'status': 'Recruiting', 'sponsor': 'MedLife Corp', 'country': 'India'}, {'trial_id': 'CT-00052', 'molecule': 'MOLB', 'indication': 'Rheumatoid Arthritis', 'phase': 'Phase IV', 'status': 'Active', 'sponsor': 'NeoHealth', 'country': 'India'}, {'trial_id': 'CT-00054', 'molecule': 'MOLB', 'indication': 'Rheumatoid Arthritis', 'phase': 'Phase III', 'status': 'Active', 'sponsor': 'NeoHealth', 'country': 'India'}, {'trial_id': 'CT-00090', 'molecule': 'MOLB', 'indication': 'Rhinosinusitis', 'phase': 'Phase II', 'status': 'Completed', 'sponsor': 'Sunrise Therapeutics', 'country': 'India'}, {'trial_id': 'CT-00126', 'molecule': 'MOLB', 'indication': 'Breast Cancer', 'phase': 'Phase I', 'status': 'Suspended', 'sponsor': 'MedLife Corp', 'country': 'India'}, {'trial_id': 'CT-00177', 'molecule': 'MOLB', 'indication': 'Rheumatoid Arthritis', 'phase': 'Phase IV', 'status': 'Recruiting', 'sponsor': 'ABC Pharma', 'country': 'India'}, {'trial_id': 'CT-00192', 'molecule': 'MOLB', 'indication': 'Rheumatoid Arthritis', 'phase': 'Phase III', 'status': 'Active', 'sponsor': 'Sunrise Therapeutics', 'country': 'India'}, {'trial_id': 'CT-00206', 'molecule': 'MOLB', 'indication': 'Asthma', 'phase': 'Phase II', 'status': 'Recruiting', 'sponsor': 'NeoHealth', 'country': 'India'}, {'trial_id': 'CT-00245', 'molecule': 'MOLB', 'indication': 'Psoriasis', 'phase': 'Phase III', 'status': 'Active', 'sponsor': 'Sunrise Therapeutics', 'country': 'India'}, {'trial_id': 'CT-00255', 'molecule': 'MOLB', 'indication': 'Rheumatoid Arthritis', 'phase': 'Phase III', 'status': 'Active', 'sponsor': 'Sunrise Therapeutics', 'country': 'India'}]</li>
+            
+        </ul>
+    
+</div>
+
+
+</body>
+</html>
