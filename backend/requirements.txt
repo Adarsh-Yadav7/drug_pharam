@@ -11,3 +11,4 @@ faiss-cpu
 sentence-transformers
 # ----- LLM Client (Groq) -----
 groq
+xhtml2pdf
