@@ -7574,5 +7574,3347 @@
         ]
       }
     }
+  ],
+  "MOLH1|LUNG CANCER|AUSTRALIA|exim,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 9730.4 Mn USD with average 5Y CAGR 5.5%. Records: 19.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2023,
+            "sales_usd_mn": 624.16,
+            "cagr_5y": 1.65,
+            "competitors": 11,
+            "patient_burden_index": 0.59
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2022,
+            "sales_usd_mn": 822.84,
+            "cagr_5y": -2.9,
+            "competitors": 11,
+            "patient_burden_index": 0.27
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2017,
+            "sales_usd_mn": 662.26,
+            "cagr_5y": -0.7,
+            "competitors": 14,
+            "patient_burden_index": 0.81
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2016,
+            "sales_usd_mn": 271.6,
+            "cagr_5y": 15.69,
+            "competitors": 4,
+            "patient_burden_index": 0.48
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2021,
+            "sales_usd_mn": 106.42,
+            "cagr_5y": 8.21,
+            "competitors": 5,
+            "patient_burden_index": 0.81
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2023,
+            "sales_usd_mn": 638.46,
+            "cagr_5y": -1.54,
+            "competitors": 8,
+            "patient_burden_index": 0.33
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2016,
+            "sales_usd_mn": 628.16,
+            "cagr_5y": -4.36,
+            "competitors": 21,
+            "patient_burden_index": 0.44
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2024,
+            "sales_usd_mn": 314.47,
+            "cagr_5y": 7.03,
+            "competitors": 3,
+            "patient_burden_index": 0.78
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2016,
+            "sales_usd_mn": 864.58,
+            "cagr_5y": 10.85,
+            "competitors": 10,
+            "patient_burden_index": 0.71
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2023,
+            "sales_usd_mn": 957.37,
+            "cagr_5y": 0.27,
+            "competitors": 5,
+            "patient_burden_index": 0.55
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 25899.5 tonnes, total exports: 27040.4 tonnes across 253 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLH1",
+            "formulation": "Ointment",
+            "country": "Australia",
+            "year": 2016,
+            "import_tonnes": 95.99,
+            "export_tonnes": 40.07
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Syrup",
+            "country": "Australia",
+            "year": 2024,
+            "import_tonnes": 30.48,
+            "export_tonnes": 144.92
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Inhaler",
+            "country": "Australia",
+            "year": 2017,
+            "import_tonnes": 144.88,
+            "export_tonnes": 25.58
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Patch",
+            "country": "Australia",
+            "year": 2019,
+            "import_tonnes": 74.76,
+            "export_tonnes": 42.31
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Injection",
+            "country": "Australia",
+            "year": 2016,
+            "import_tonnes": 89.73,
+            "export_tonnes": 28.97
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Patch",
+            "country": "Australia",
+            "year": 2020,
+            "import_tonnes": 133.11,
+            "export_tonnes": 168.8
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Suspension",
+            "country": "Australia",
+            "year": 2021,
+            "import_tonnes": 119.51,
+            "export_tonnes": 153.08
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Capsule",
+            "country": "Australia",
+            "year": 2022,
+            "import_tonnes": 47.51,
+            "export_tonnes": 192.26
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Suspension",
+            "country": "Australia",
+            "year": 2019,
+            "import_tonnes": 52.5,
+            "export_tonnes": 40.32
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Inhaler",
+            "country": "Australia",
+            "year": 2019,
+            "import_tonnes": 197.75,
+            "export_tonnes": 28.45
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 151 relevant patents. Earliest expiry year: 2005.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1000444",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "PrimeCare",
+            "filing_year": 2013,
+            "expiry_year": 2025,
+            "status": "Granted",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1000823",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "NovaCure",
+            "filing_year": 2007,
+            "expiry_year": 2020,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1001818",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "Sunrise Therapeutics",
+            "filing_year": 1997,
+            "expiry_year": 2020,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1002894",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "PrimeCare",
+            "filing_year": 2017,
+            "expiry_year": 2040,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003274",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "OncoGenix",
+            "filing_year": 1998,
+            "expiry_year": 2011,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003281",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "XYZ Pharma",
+            "filing_year": 2021,
+            "expiry_year": 2032,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1003316",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "OncoGenix",
+            "filing_year": 2001,
+            "expiry_year": 2025,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003368",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "MedLife Corp",
+            "filing_year": 2013,
+            "expiry_year": 2034,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1004566",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "ABC Pharma",
+            "filing_year": 2016,
+            "expiry_year": 2036,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005082",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "OncoGenix",
+            "filing_year": 2005,
+            "expiry_year": 2014,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 19 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-007766",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "XYZ Pharma",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-009959",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Terminated",
+            "sponsor": "MedLife Corp",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-012165",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase I",
+            "status": "Terminated",
+            "sponsor": "ABC Pharma",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-015426",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "OncoGenix",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-019127",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "MedLife Corp",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-026602",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase II",
+            "status": "Active",
+            "sponsor": "MedLife Corp",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-027368",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Suspended",
+            "sponsor": "PrimeCare",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-039492",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Terminated",
+            "sponsor": "XYZ Pharma",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-052534",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Recruiting",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-055689",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase IV",
+            "status": "Active",
+            "sponsor": "XYZ Pharma",
+            "country": "Australia"
+          }
+        ]
+      }
+    }
+  ],
+  "MOLR3|RESPIRATORY|GLOBAL|exim,guidelines,internal,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 11824.9 Mn USD with average 5Y CAGR 8.1%. Records: 22.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2016,
+            "sales_usd_mn": 788.98,
+            "cagr_5y": 17.39,
+            "competitors": 16,
+            "patient_burden_index": 0.23
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2024,
+            "sales_usd_mn": 34.85,
+            "cagr_5y": 17.01,
+            "competitors": 24,
+            "patient_burden_index": 0.53
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2023,
+            "sales_usd_mn": 810.58,
+            "cagr_5y": 13.32,
+            "competitors": 20,
+            "patient_burden_index": 0.58
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2019,
+            "sales_usd_mn": 293.06,
+            "cagr_5y": 5.46,
+            "competitors": 17,
+            "patient_burden_index": 0.44
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2015,
+            "sales_usd_mn": 684.11,
+            "cagr_5y": 15.73,
+            "competitors": 22,
+            "patient_burden_index": 0.91
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2024,
+            "sales_usd_mn": 939.04,
+            "cagr_5y": 13.22,
+            "competitors": 20,
+            "patient_burden_index": 0.55
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2017,
+            "sales_usd_mn": 56.42,
+            "cagr_5y": 17.89,
+            "competitors": 11,
+            "patient_burden_index": 0.68
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2023,
+            "sales_usd_mn": 108.38,
+            "cagr_5y": 2.87,
+            "competitors": 3,
+            "patient_burden_index": 0.8
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2015,
+            "sales_usd_mn": 615.03,
+            "cagr_5y": 0.01,
+            "competitors": 8,
+            "patient_burden_index": 0.79
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2020,
+            "sales_usd_mn": 964.07,
+            "cagr_5y": -3.91,
+            "competitors": 20,
+            "patient_burden_index": 0.35
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 23012.0 tonnes, total exports: 21941.8 tonnes across 228 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLR3",
+            "formulation": "Capsule",
+            "country": "Global",
+            "year": 2015,
+            "import_tonnes": 124.27,
+            "export_tonnes": 144.1
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Patch",
+            "country": "Global",
+            "year": 2015,
+            "import_tonnes": 56.8,
+            "export_tonnes": 12.88
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Syrup",
+            "country": "Global",
+            "year": 2018,
+            "import_tonnes": 101.4,
+            "export_tonnes": 179.75
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "API",
+            "country": "Global",
+            "year": 2021,
+            "import_tonnes": 101.5,
+            "export_tonnes": 66.51
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Tablet",
+            "country": "Global",
+            "year": 2020,
+            "import_tonnes": 156.9,
+            "export_tonnes": 71.0
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Capsule",
+            "country": "Global",
+            "year": 2018,
+            "import_tonnes": 135.12,
+            "export_tonnes": 23.7
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Suspension",
+            "country": "Global",
+            "year": 2017,
+            "import_tonnes": 122.3,
+            "export_tonnes": 158.79
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "API",
+            "country": "Global",
+            "year": 2017,
+            "import_tonnes": 78.46,
+            "export_tonnes": 104.62
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Suspension",
+            "country": "Global",
+            "year": 2024,
+            "import_tonnes": 70.25,
+            "export_tonnes": 131.49
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "API",
+            "country": "Global",
+            "year": 2019,
+            "import_tonnes": 155.28,
+            "export_tonnes": 117.06
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 138 relevant patents. Earliest expiry year: 2005.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1001024",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2020,
+            "expiry_year": 2028,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1001733",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "PrimeCare",
+            "filing_year": 1998,
+            "expiry_year": 2011,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1002526",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2015,
+            "expiry_year": 2039,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1002930",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "NovaCure",
+            "filing_year": 2016,
+            "expiry_year": 2026,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005662",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "PrimeCare",
+            "filing_year": 1997,
+            "expiry_year": 2006,
+            "status": "Granted",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005997",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "NovaCure",
+            "filing_year": 2021,
+            "expiry_year": 2029,
+            "status": "Expired",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006905",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2008,
+            "expiry_year": 2022,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1007126",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "PrimeCare",
+            "filing_year": 2017,
+            "expiry_year": 2037,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1007191",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2018,
+            "expiry_year": 2040,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1007568",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "NovaCure",
+            "filing_year": 1995,
+            "expiry_year": 2018,
+            "status": "Expired",
+            "fto_flag": "Low"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 12 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-013911",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Terminated",
+            "sponsor": "OncoGenix",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-015584",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Suspended",
+            "sponsor": "ABC Pharma",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-022233",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase II",
+            "status": "Recruiting",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-027676",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "ABC Pharma",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-036562",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Active",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-044820",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase III",
+            "status": "Recruiting",
+            "sponsor": "GlobalBio",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-049188",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase I",
+            "status": "Completed",
+            "sponsor": "GlobalBio",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-056353",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase III",
+            "status": "Terminated",
+            "sponsor": "ABC Pharma",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-071082",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase I",
+            "status": "Terminated",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-081478",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Suspended",
+            "sponsor": "GlobalBio",
+            "country": "Global"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Internal Knowledge Agent",
+      "summary": "Global Respiratory Assessment for MOLR3 Highlights Significant Unmet Needs in India and Other Regions, but Also Presents Opportunities for Repurposing and Targeting Under-Served Patient Populations.",
+      "data": {
+        "documents": [
+          "asthma_strategy_2024.pdf",
+          "respiratory_field_insights.pdf"
+        ],
+        "key_opportunities": [
+          "Repurpose MOLR3 for steroid-intolerant asthma patients in India and other Tier-2/3 cities, addressing affordability issues and limited alternative therapies",
+          "Explore pediatric asthma cases in tier-2/3 cities and rural areas where low-dose suitable options are missing",
+          "Target elderly population in Canada and China with safer formulations, capitalizing on increasing demand",
+          "Develop once-daily inhaler for improved adherence in India and other regions, aligning with opportunity trend"
+        ],
+        "key_risks": [
+          "Evidence gaps: Limited clinical data on MOLR3 efficacy in pediatric asthma cases and elderly patients in Canada and China",
+          "Operational constraints: High competition in the Indian respiratory market, with established players dominating the space",
+          "Pricing and affordability risks: MOLR3 may face affordability challenges in tier-2/3 cities and rural areas, limiting market access",
+          "Regulatory hurdles: Need to navigate regulatory frameworks in Canada and China to secure approval and market authorization for MOLR3 in these regions"
+        ]
+      }
+    }
+  ],
+  "MOLR3|RESPIRATORY|GLOBAL|exim,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 11824.9 Mn USD with average 5Y CAGR 8.1%. Records: 22.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2016,
+            "sales_usd_mn": 788.98,
+            "cagr_5y": 17.39,
+            "competitors": 16,
+            "patient_burden_index": 0.23
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2024,
+            "sales_usd_mn": 34.85,
+            "cagr_5y": 17.01,
+            "competitors": 24,
+            "patient_burden_index": 0.53
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2023,
+            "sales_usd_mn": 810.58,
+            "cagr_5y": 13.32,
+            "competitors": 20,
+            "patient_burden_index": 0.58
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2019,
+            "sales_usd_mn": 293.06,
+            "cagr_5y": 5.46,
+            "competitors": 17,
+            "patient_burden_index": 0.44
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2015,
+            "sales_usd_mn": 684.11,
+            "cagr_5y": 15.73,
+            "competitors": 22,
+            "patient_burden_index": 0.91
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2024,
+            "sales_usd_mn": 939.04,
+            "cagr_5y": 13.22,
+            "competitors": 20,
+            "patient_burden_index": 0.55
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2017,
+            "sales_usd_mn": 56.42,
+            "cagr_5y": 17.89,
+            "competitors": 11,
+            "patient_burden_index": 0.68
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2023,
+            "sales_usd_mn": 108.38,
+            "cagr_5y": 2.87,
+            "competitors": 3,
+            "patient_burden_index": 0.8
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2015,
+            "sales_usd_mn": 615.03,
+            "cagr_5y": 0.01,
+            "competitors": 8,
+            "patient_burden_index": 0.79
+          },
+          {
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "country": "Global",
+            "year": 2020,
+            "sales_usd_mn": 964.07,
+            "cagr_5y": -3.91,
+            "competitors": 20,
+            "patient_burden_index": 0.35
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 23012.0 tonnes, total exports: 21941.8 tonnes across 228 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLR3",
+            "formulation": "Capsule",
+            "country": "Global",
+            "year": 2015,
+            "import_tonnes": 124.27,
+            "export_tonnes": 144.1
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Patch",
+            "country": "Global",
+            "year": 2015,
+            "import_tonnes": 56.8,
+            "export_tonnes": 12.88
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Syrup",
+            "country": "Global",
+            "year": 2018,
+            "import_tonnes": 101.4,
+            "export_tonnes": 179.75
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "API",
+            "country": "Global",
+            "year": 2021,
+            "import_tonnes": 101.5,
+            "export_tonnes": 66.51
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Tablet",
+            "country": "Global",
+            "year": 2020,
+            "import_tonnes": 156.9,
+            "export_tonnes": 71.0
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Capsule",
+            "country": "Global",
+            "year": 2018,
+            "import_tonnes": 135.12,
+            "export_tonnes": 23.7
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Suspension",
+            "country": "Global",
+            "year": 2017,
+            "import_tonnes": 122.3,
+            "export_tonnes": 158.79
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "API",
+            "country": "Global",
+            "year": 2017,
+            "import_tonnes": 78.46,
+            "export_tonnes": 104.62
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "Suspension",
+            "country": "Global",
+            "year": 2024,
+            "import_tonnes": 70.25,
+            "export_tonnes": 131.49
+          },
+          {
+            "molecule": "MOLR3",
+            "formulation": "API",
+            "country": "Global",
+            "year": 2019,
+            "import_tonnes": 155.28,
+            "export_tonnes": 117.06
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 138 relevant patents. Earliest expiry year: 2005.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1001024",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2020,
+            "expiry_year": 2028,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1001733",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "PrimeCare",
+            "filing_year": 1998,
+            "expiry_year": 2011,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1002526",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2015,
+            "expiry_year": 2039,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1002930",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "NovaCure",
+            "filing_year": 2016,
+            "expiry_year": 2026,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005662",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "PrimeCare",
+            "filing_year": 1997,
+            "expiry_year": 2006,
+            "status": "Granted",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005997",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "NovaCure",
+            "filing_year": 2021,
+            "expiry_year": 2029,
+            "status": "Expired",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006905",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2008,
+            "expiry_year": 2022,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1007126",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "PrimeCare",
+            "filing_year": 2017,
+            "expiry_year": 2037,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1007191",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "GlobalBio",
+            "filing_year": 2018,
+            "expiry_year": 2040,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1007568",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "assignee": "NovaCure",
+            "filing_year": 1995,
+            "expiry_year": 2018,
+            "status": "Expired",
+            "fto_flag": "Low"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 12 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-013911",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Terminated",
+            "sponsor": "OncoGenix",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-015584",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Suspended",
+            "sponsor": "ABC Pharma",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-022233",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase II",
+            "status": "Recruiting",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-027676",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "ABC Pharma",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-036562",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Active",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-044820",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase III",
+            "status": "Recruiting",
+            "sponsor": "GlobalBio",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-049188",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase I",
+            "status": "Completed",
+            "sponsor": "GlobalBio",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-056353",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase III",
+            "status": "Terminated",
+            "sponsor": "ABC Pharma",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-071082",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase I",
+            "status": "Terminated",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Global"
+          },
+          {
+            "trial_id": "CT-081478",
+            "molecule": "MOLR3",
+            "indication": "Respiratory",
+            "phase": "Phase IV",
+            "status": "Suspended",
+            "sponsor": "GlobalBio",
+            "country": "Global"
+          }
+        ]
+      }
+    }
+  ],
+  "MOLX|ASTHMA|INDIA|exim,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 6722.8 Mn USD with average 5Y CAGR 9.3%. Records: 16.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2018,
+            "sales_usd_mn": 133.55,
+            "cagr_5y": -2.97,
+            "competitors": 6,
+            "patient_burden_index": 0.48
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 497.55,
+            "cagr_5y": 10.73,
+            "competitors": 20,
+            "patient_burden_index": 0.63
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2015,
+            "sales_usd_mn": 849.71,
+            "cagr_5y": 14.35,
+            "competitors": 5,
+            "patient_burden_index": 0.36
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 603.09,
+            "cagr_5y": 11.43,
+            "competitors": 20,
+            "patient_burden_index": 0.26
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2024,
+            "sales_usd_mn": 525.85,
+            "cagr_5y": 8.78,
+            "competitors": 21,
+            "patient_burden_index": 0.55
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2019,
+            "sales_usd_mn": 739.32,
+            "cagr_5y": 17.7,
+            "competitors": 18,
+            "patient_burden_index": 0.6
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2023,
+            "sales_usd_mn": 144.44,
+            "cagr_5y": 10.52,
+            "competitors": 24,
+            "patient_burden_index": 0.81
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2016,
+            "sales_usd_mn": 77.43,
+            "cagr_5y": 13.37,
+            "competitors": 12,
+            "patient_burden_index": 0.65
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2015,
+            "sales_usd_mn": 524.92,
+            "cagr_5y": 4.53,
+            "competitors": 18,
+            "patient_burden_index": 0.93
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2015,
+            "sales_usd_mn": 707.18,
+            "cagr_5y": 7.49,
+            "competitors": 2,
+            "patient_burden_index": 0.68
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 27940.6 tonnes, total exports: 27449.0 tonnes across 272 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLX",
+            "formulation": "Tablet",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 159.88,
+            "export_tonnes": 97.59
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Capsule",
+            "country": "India",
+            "year": 2024,
+            "import_tonnes": 167.83,
+            "export_tonnes": 144.32
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Injection",
+            "country": "India",
+            "year": 2019,
+            "import_tonnes": 50.73,
+            "export_tonnes": 26.51
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Suspension",
+            "country": "India",
+            "year": 2018,
+            "import_tonnes": 161.52,
+            "export_tonnes": 19.47
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Injection",
+            "country": "India",
+            "year": 2018,
+            "import_tonnes": 156.3,
+            "export_tonnes": 169.86
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Injection",
+            "country": "India",
+            "year": 2024,
+            "import_tonnes": 89.74,
+            "export_tonnes": 129.8
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "API",
+            "country": "India",
+            "year": 2024,
+            "import_tonnes": 98.25,
+            "export_tonnes": 93.86
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Ointment",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 61.96,
+            "export_tonnes": 113.54
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Patch",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 149.95,
+            "export_tonnes": 151.02
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Syrup",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 11.7,
+            "export_tonnes": 176.85
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 158 relevant patents. Earliest expiry year: 2003.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1002042",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "Sunrise Therapeutics",
+            "filing_year": 2022,
+            "expiry_year": 2039,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1002677",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "OncoGenix",
+            "filing_year": 2009,
+            "expiry_year": 2019,
+            "status": "Expired",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1003343",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "NovaCure",
+            "filing_year": 2015,
+            "expiry_year": 2036,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003913",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "PrimeCare",
+            "filing_year": 2006,
+            "expiry_year": 2026,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1004134",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "MedLife Corp",
+            "filing_year": 2013,
+            "expiry_year": 2026,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1004309",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "ABC Pharma",
+            "filing_year": 2017,
+            "expiry_year": 2034,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005917",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "ABC Pharma",
+            "filing_year": 2012,
+            "expiry_year": 2030,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1006020",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "ABC Pharma",
+            "filing_year": 2012,
+            "expiry_year": 2022,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006077",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "GlobalBio",
+            "filing_year": 2002,
+            "expiry_year": 2014,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006346",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "MedLife Corp",
+            "filing_year": 2017,
+            "expiry_year": 2040,
+            "status": "Granted",
+            "fto_flag": "High"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 13 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-009580",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-009652",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Recruiting",
+            "sponsor": "NovaCure",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-019510",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Active",
+            "sponsor": "OncoGenix",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-026574",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "NovaCure",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-027216",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Terminated",
+            "sponsor": "GlobalBio",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-041488",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-042463",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-043869",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Recruiting",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-048738",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-050087",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "GlobalBio",
+            "country": "India"
+          }
+        ]
+      }
+    }
+  ],
+  "MOL2|CHRONIC KIDNEY DISEASE|INDIA|exim,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 10589.9 Mn USD with average 5Y CAGR 6.2%. Records: 19.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2019,
+            "sales_usd_mn": 316.75,
+            "cagr_5y": -4.85,
+            "competitors": 22,
+            "patient_burden_index": 0.26
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2024,
+            "sales_usd_mn": 861.42,
+            "cagr_5y": 15.4,
+            "competitors": 16,
+            "patient_burden_index": 0.68
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2022,
+            "sales_usd_mn": 976.84,
+            "cagr_5y": 1.24,
+            "competitors": 22,
+            "patient_burden_index": 0.97
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2021,
+            "sales_usd_mn": 497.54,
+            "cagr_5y": 8.97,
+            "competitors": 14,
+            "patient_burden_index": 0.95
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 480.25,
+            "cagr_5y": 8.41,
+            "competitors": 22,
+            "patient_burden_index": 0.73
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2019,
+            "sales_usd_mn": 309.36,
+            "cagr_5y": 8.82,
+            "competitors": 19,
+            "patient_burden_index": 0.77
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2016,
+            "sales_usd_mn": 812.42,
+            "cagr_5y": 6.51,
+            "competitors": 15,
+            "patient_burden_index": 0.78
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 358.01,
+            "cagr_5y": -4.77,
+            "competitors": 2,
+            "patient_burden_index": 0.41
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2024,
+            "sales_usd_mn": 501.57,
+            "cagr_5y": -3.52,
+            "competitors": 22,
+            "patient_burden_index": 0.5
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2021,
+            "sales_usd_mn": 545.13,
+            "cagr_5y": 1.82,
+            "competitors": 17,
+            "patient_burden_index": 0.63
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 24269.6 tonnes, total exports: 26074.8 tonnes across 260 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOL2",
+            "formulation": "Tablet",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 154.23,
+            "export_tonnes": 104.66
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Patch",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 64.44,
+            "export_tonnes": 184.9
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Capsule",
+            "country": "India",
+            "year": 2019,
+            "import_tonnes": 19.83,
+            "export_tonnes": 81.0
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Ointment",
+            "country": "India",
+            "year": 2021,
+            "import_tonnes": 2.47,
+            "export_tonnes": 121.37
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "API",
+            "country": "India",
+            "year": 2017,
+            "import_tonnes": 110.77,
+            "export_tonnes": 87.92
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Ointment",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 160.69,
+            "export_tonnes": 148.48
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "API",
+            "country": "India",
+            "year": 2020,
+            "import_tonnes": 136.33,
+            "export_tonnes": 125.09
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Inhaler",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 179.0,
+            "export_tonnes": 44.97
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Syrup",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 124.62,
+            "export_tonnes": 157.92
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Patch",
+            "country": "India",
+            "year": 2022,
+            "import_tonnes": 26.35,
+            "export_tonnes": 93.19
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 156 relevant patents. Earliest expiry year: 2003.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1000426",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "GlobalBio",
+            "filing_year": 2011,
+            "expiry_year": 2031,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1001908",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "ABC Pharma",
+            "filing_year": 2005,
+            "expiry_year": 2021,
+            "status": "Pending",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1003136",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "NovaCure",
+            "filing_year": 2005,
+            "expiry_year": 2027,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1003185",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "ABC Pharma",
+            "filing_year": 2018,
+            "expiry_year": 2031,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003444",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "ABC Pharma",
+            "filing_year": 2017,
+            "expiry_year": 2029,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003932",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "MedLife Corp",
+            "filing_year": 2011,
+            "expiry_year": 2019,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1005494",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "Sunrise Therapeutics",
+            "filing_year": 2016,
+            "expiry_year": 2027,
+            "status": "Pending",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1005555",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "OncoGenix",
+            "filing_year": 2003,
+            "expiry_year": 2018,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006225",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "XYZ Pharma",
+            "filing_year": 2015,
+            "expiry_year": 2032,
+            "status": "Expired",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1006378",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "XYZ Pharma",
+            "filing_year": 1995,
+            "expiry_year": 2014,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 16 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-005276",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Recruiting",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-018940",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Suspended",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-019942",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase II",
+            "status": "Active",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-022598",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Completed",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-030017",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase IV",
+            "status": "Terminated",
+            "sponsor": "XYZ Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-031085",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "XYZ Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-040294",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-042504",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase III",
+            "status": "Recruiting",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-044753",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Recruiting",
+            "sponsor": "NovaCure",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-046983",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "India"
+          }
+        ]
+      }
+    }
+  ],
+  "MOLX|ASTHMA|INDIA|exim,guidelines,internal,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 6722.8 Mn USD with average 5Y CAGR 9.3%. Records: 16.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2018,
+            "sales_usd_mn": 133.55,
+            "cagr_5y": -2.97,
+            "competitors": 6,
+            "patient_burden_index": 0.48
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 497.55,
+            "cagr_5y": 10.73,
+            "competitors": 20,
+            "patient_burden_index": 0.63
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2015,
+            "sales_usd_mn": 849.71,
+            "cagr_5y": 14.35,
+            "competitors": 5,
+            "patient_burden_index": 0.36
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 603.09,
+            "cagr_5y": 11.43,
+            "competitors": 20,
+            "patient_burden_index": 0.26
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2024,
+            "sales_usd_mn": 525.85,
+            "cagr_5y": 8.78,
+            "competitors": 21,
+            "patient_burden_index": 0.55
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2019,
+            "sales_usd_mn": 739.32,
+            "cagr_5y": 17.7,
+            "competitors": 18,
+            "patient_burden_index": 0.6
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2023,
+            "sales_usd_mn": 144.44,
+            "cagr_5y": 10.52,
+            "competitors": 24,
+            "patient_burden_index": 0.81
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2016,
+            "sales_usd_mn": 77.43,
+            "cagr_5y": 13.37,
+            "competitors": 12,
+            "patient_burden_index": 0.65
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2015,
+            "sales_usd_mn": 524.92,
+            "cagr_5y": 4.53,
+            "competitors": 18,
+            "patient_burden_index": 0.93
+          },
+          {
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "country": "India",
+            "year": 2015,
+            "sales_usd_mn": 707.18,
+            "cagr_5y": 7.49,
+            "competitors": 2,
+            "patient_burden_index": 0.68
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 27940.6 tonnes, total exports: 27449.0 tonnes across 272 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLX",
+            "formulation": "Tablet",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 159.88,
+            "export_tonnes": 97.59
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Capsule",
+            "country": "India",
+            "year": 2024,
+            "import_tonnes": 167.83,
+            "export_tonnes": 144.32
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Injection",
+            "country": "India",
+            "year": 2019,
+            "import_tonnes": 50.73,
+            "export_tonnes": 26.51
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Suspension",
+            "country": "India",
+            "year": 2018,
+            "import_tonnes": 161.52,
+            "export_tonnes": 19.47
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Injection",
+            "country": "India",
+            "year": 2018,
+            "import_tonnes": 156.3,
+            "export_tonnes": 169.86
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Injection",
+            "country": "India",
+            "year": 2024,
+            "import_tonnes": 89.74,
+            "export_tonnes": 129.8
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "API",
+            "country": "India",
+            "year": 2024,
+            "import_tonnes": 98.25,
+            "export_tonnes": 93.86
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Ointment",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 61.96,
+            "export_tonnes": 113.54
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Patch",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 149.95,
+            "export_tonnes": 151.02
+          },
+          {
+            "molecule": "MOLX",
+            "formulation": "Syrup",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 11.7,
+            "export_tonnes": 176.85
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 158 relevant patents. Earliest expiry year: 2003.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1002042",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "Sunrise Therapeutics",
+            "filing_year": 2022,
+            "expiry_year": 2039,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1002677",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "OncoGenix",
+            "filing_year": 2009,
+            "expiry_year": 2019,
+            "status": "Expired",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1003343",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "NovaCure",
+            "filing_year": 2015,
+            "expiry_year": 2036,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003913",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "PrimeCare",
+            "filing_year": 2006,
+            "expiry_year": 2026,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1004134",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "MedLife Corp",
+            "filing_year": 2013,
+            "expiry_year": 2026,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1004309",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "ABC Pharma",
+            "filing_year": 2017,
+            "expiry_year": 2034,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005917",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "ABC Pharma",
+            "filing_year": 2012,
+            "expiry_year": 2030,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1006020",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "ABC Pharma",
+            "filing_year": 2012,
+            "expiry_year": 2022,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006077",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "GlobalBio",
+            "filing_year": 2002,
+            "expiry_year": 2014,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006346",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "assignee": "MedLife Corp",
+            "filing_year": 2017,
+            "expiry_year": 2040,
+            "status": "Granted",
+            "fto_flag": "High"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 13 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-009580",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-009652",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Recruiting",
+            "sponsor": "NovaCure",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-019510",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Active",
+            "sponsor": "OncoGenix",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-026574",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "NovaCure",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-027216",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Terminated",
+            "sponsor": "GlobalBio",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-041488",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-042463",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-043869",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase II",
+            "status": "Recruiting",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-048738",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-050087",
+            "molecule": "MOLX",
+            "indication": "Asthma",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "GlobalBio",
+            "country": "India"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Internal Knowledge Agent",
+      "summary": "Opportunity Assessment for MOLX in the Indian Asthma Market",
+      "data": {
+        "documents": [
+          "asthma_strategy_2024.pdf",
+          "respiratory_field_insights.pdf"
+        ],
+        "key_opportunities": [
+          "Develop a steroid-free once-daily inhaler for better adherence and to cater to elderly population who demand safer formulations",
+          "Target Tier-2/3 cities with affordable inhaler options and explore partnership models to increase affordability",
+          "Explore alternative therapies for steroid-intolerant patients and leverage existing MOLX pipeline for repurposing",
+          "Enhance adherence among patients by developing user-friendly devices and providing proper training on inhaler technique",
+          "Enter the pediatric asthma market with suitable low-dose options and create awareness about the importance of correct inhaler usage",
+          "Explore Fixed-Dose Combinations (FDCs) with complementary molecules targeting unmet needs in asthma"
+        ],
+        "key_risks": [
+          "High level of competition in the Indian Asthma market makes differentiation and market share gain challenging",
+          "Expiring patents may restrict MOLX pipeline molecules, necessitating strategic planning and repurposing",
+          "Limited availability of suitable pediatric and elderly population clinical trials, which could impede MOLX's entry into these segments",
+          "Lack of suitable low-doses options and user-friendly devices may hinder patient adherence and overall market success",
+          "Regulatory pressures in India to ensure affordability and accessibility of treatments may limit pricing and market growth opportunities for MOLX"
+        ]
+      }
+    }
+  ],
+  "MOL2|CHRONIC KIDNEY DISEASE|INDIA|exim,guidelines,internal,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 10589.9 Mn USD with average 5Y CAGR 6.2%. Records: 19.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2019,
+            "sales_usd_mn": 316.75,
+            "cagr_5y": -4.85,
+            "competitors": 22,
+            "patient_burden_index": 0.26
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2024,
+            "sales_usd_mn": 861.42,
+            "cagr_5y": 15.4,
+            "competitors": 16,
+            "patient_burden_index": 0.68
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2022,
+            "sales_usd_mn": 976.84,
+            "cagr_5y": 1.24,
+            "competitors": 22,
+            "patient_burden_index": 0.97
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2021,
+            "sales_usd_mn": 497.54,
+            "cagr_5y": 8.97,
+            "competitors": 14,
+            "patient_burden_index": 0.95
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 480.25,
+            "cagr_5y": 8.41,
+            "competitors": 22,
+            "patient_burden_index": 0.73
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2019,
+            "sales_usd_mn": 309.36,
+            "cagr_5y": 8.82,
+            "competitors": 19,
+            "patient_burden_index": 0.77
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2016,
+            "sales_usd_mn": 812.42,
+            "cagr_5y": 6.51,
+            "competitors": 15,
+            "patient_burden_index": 0.78
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2017,
+            "sales_usd_mn": 358.01,
+            "cagr_5y": -4.77,
+            "competitors": 2,
+            "patient_burden_index": 0.41
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2024,
+            "sales_usd_mn": 501.57,
+            "cagr_5y": -3.52,
+            "competitors": 22,
+            "patient_burden_index": 0.5
+          },
+          {
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "country": "India",
+            "year": 2021,
+            "sales_usd_mn": 545.13,
+            "cagr_5y": 1.82,
+            "competitors": 17,
+            "patient_burden_index": 0.63
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 24269.6 tonnes, total exports: 26074.8 tonnes across 260 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOL2",
+            "formulation": "Tablet",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 154.23,
+            "export_tonnes": 104.66
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Patch",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 64.44,
+            "export_tonnes": 184.9
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Capsule",
+            "country": "India",
+            "year": 2019,
+            "import_tonnes": 19.83,
+            "export_tonnes": 81.0
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Ointment",
+            "country": "India",
+            "year": 2021,
+            "import_tonnes": 2.47,
+            "export_tonnes": 121.37
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "API",
+            "country": "India",
+            "year": 2017,
+            "import_tonnes": 110.77,
+            "export_tonnes": 87.92
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Ointment",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 160.69,
+            "export_tonnes": 148.48
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "API",
+            "country": "India",
+            "year": 2020,
+            "import_tonnes": 136.33,
+            "export_tonnes": 125.09
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Inhaler",
+            "country": "India",
+            "year": 2016,
+            "import_tonnes": 179.0,
+            "export_tonnes": 44.97
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Syrup",
+            "country": "India",
+            "year": 2015,
+            "import_tonnes": 124.62,
+            "export_tonnes": 157.92
+          },
+          {
+            "molecule": "MOL2",
+            "formulation": "Patch",
+            "country": "India",
+            "year": 2022,
+            "import_tonnes": 26.35,
+            "export_tonnes": 93.19
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 156 relevant patents. Earliest expiry year: 2003.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1000426",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "GlobalBio",
+            "filing_year": 2011,
+            "expiry_year": 2031,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1001908",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "ABC Pharma",
+            "filing_year": 2005,
+            "expiry_year": 2021,
+            "status": "Pending",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1003136",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "NovaCure",
+            "filing_year": 2005,
+            "expiry_year": 2027,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1003185",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "ABC Pharma",
+            "filing_year": 2018,
+            "expiry_year": 2031,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003444",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "ABC Pharma",
+            "filing_year": 2017,
+            "expiry_year": 2029,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003932",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "MedLife Corp",
+            "filing_year": 2011,
+            "expiry_year": 2019,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1005494",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "Sunrise Therapeutics",
+            "filing_year": 2016,
+            "expiry_year": 2027,
+            "status": "Pending",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1005555",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "OncoGenix",
+            "filing_year": 2003,
+            "expiry_year": 2018,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1006225",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "XYZ Pharma",
+            "filing_year": 2015,
+            "expiry_year": 2032,
+            "status": "Expired",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1006378",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "assignee": "XYZ Pharma",
+            "filing_year": 1995,
+            "expiry_year": 2014,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 16 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-005276",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Recruiting",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-018940",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Suspended",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-019942",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase II",
+            "status": "Active",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-022598",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Completed",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-030017",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase IV",
+            "status": "Terminated",
+            "sponsor": "XYZ Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-031085",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "XYZ Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-040294",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "PrimeCare",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-042504",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase III",
+            "status": "Recruiting",
+            "sponsor": "ABC Pharma",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-044753",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase I",
+            "status": "Recruiting",
+            "sponsor": "NovaCure",
+            "country": "India"
+          },
+          {
+            "trial_id": "CT-046983",
+            "molecule": "MOL2",
+            "indication": "Chronic Kidney Disease",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "India"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Internal Knowledge Agent",
+      "summary": "Evaluating MOL2 in Indian Chronic Kidney Disease (CKD) highlights potential repurposing opportunities and unmet needs, but also reveals operational constraints.",
+      "data": {
+        "documents": [
+          "asthma_strategy_2024.pdf",
+          "respiratory_field_insights.pdf"
+        ],
+        "key_opportunities": [
+          "Targeting patients with steroid intolerance in CKD, who suffer from limited alternative therapies",
+          "Developing low-dose formulations for pediatric CKD patients, addressing a currently unmet need",
+          "Exploring repurposing MOL2 in CKD to leverage its existing safety profile and familiarity in a new therapeutic area",
+          "Improving inhaler affordability and accessibility in Tier-2/3 cities, addressing a significant pain point for CKD patients"
+        ],
+        "key_risks": [
+          "Lack of evidence on MOL2's efficacy and safety in CKD, highlighting the need for extensive clinical trials",
+          "Competing with established treatments in the CKD market, which may hinder market adoption",
+          "Operational challenges in expanding distribution and logistics to reach rural hospitals and patients in Tier-2/3 cities"
+        ]
+      }
+    }
+  ],
+  "MOLB|ASTHMA|BRAZIL|exim,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "No IQVIA data found for given filters.",
+      "data": {
+        "table": []
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "No EXIM trade data found for given filters.",
+      "data": {
+        "table": []
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "No patents found for selection.",
+      "data": {
+        "patents": []
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "No clinical trials found for given filters.",
+      "data": {
+        "table": []
+      }
+    }
+  ],
+  "MOLH1|LUNG CANCER|AUSTRALIA|exim,guidelines,internal,market,patent,trials": [
+    {
+      "agent_name": "IQVIA Insights Agent",
+      "summary": "Total market size: 9730.4 Mn USD with average 5Y CAGR 5.5%. Records: 19.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2023,
+            "sales_usd_mn": 624.16,
+            "cagr_5y": 1.65,
+            "competitors": 11,
+            "patient_burden_index": 0.59
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2022,
+            "sales_usd_mn": 822.84,
+            "cagr_5y": -2.9,
+            "competitors": 11,
+            "patient_burden_index": 0.27
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2017,
+            "sales_usd_mn": 662.26,
+            "cagr_5y": -0.7,
+            "competitors": 14,
+            "patient_burden_index": 0.81
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2016,
+            "sales_usd_mn": 271.6,
+            "cagr_5y": 15.69,
+            "competitors": 4,
+            "patient_burden_index": 0.48
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2021,
+            "sales_usd_mn": 106.42,
+            "cagr_5y": 8.21,
+            "competitors": 5,
+            "patient_burden_index": 0.81
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2023,
+            "sales_usd_mn": 638.46,
+            "cagr_5y": -1.54,
+            "competitors": 8,
+            "patient_burden_index": 0.33
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2016,
+            "sales_usd_mn": 628.16,
+            "cagr_5y": -4.36,
+            "competitors": 21,
+            "patient_burden_index": 0.44
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2024,
+            "sales_usd_mn": 314.47,
+            "cagr_5y": 7.03,
+            "competitors": 3,
+            "patient_burden_index": 0.78
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2016,
+            "sales_usd_mn": 864.58,
+            "cagr_5y": 10.85,
+            "competitors": 10,
+            "patient_burden_index": 0.71
+          },
+          {
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "country": "Australia",
+            "year": 2023,
+            "sales_usd_mn": 957.37,
+            "cagr_5y": 0.27,
+            "competitors": 5,
+            "patient_burden_index": 0.55
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "EXIM Trade Agent",
+      "summary": "Total imports: 25899.5 tonnes, total exports: 27040.4 tonnes across 253 records.",
+      "data": {
+        "table": [
+          {
+            "molecule": "MOLH1",
+            "formulation": "Ointment",
+            "country": "Australia",
+            "year": 2016,
+            "import_tonnes": 95.99,
+            "export_tonnes": 40.07
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Syrup",
+            "country": "Australia",
+            "year": 2024,
+            "import_tonnes": 30.48,
+            "export_tonnes": 144.92
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Inhaler",
+            "country": "Australia",
+            "year": 2017,
+            "import_tonnes": 144.88,
+            "export_tonnes": 25.58
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Patch",
+            "country": "Australia",
+            "year": 2019,
+            "import_tonnes": 74.76,
+            "export_tonnes": 42.31
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Injection",
+            "country": "Australia",
+            "year": 2016,
+            "import_tonnes": 89.73,
+            "export_tonnes": 28.97
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Patch",
+            "country": "Australia",
+            "year": 2020,
+            "import_tonnes": 133.11,
+            "export_tonnes": 168.8
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Suspension",
+            "country": "Australia",
+            "year": 2021,
+            "import_tonnes": 119.51,
+            "export_tonnes": 153.08
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Capsule",
+            "country": "Australia",
+            "year": 2022,
+            "import_tonnes": 47.51,
+            "export_tonnes": 192.26
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Suspension",
+            "country": "Australia",
+            "year": 2019,
+            "import_tonnes": 52.5,
+            "export_tonnes": 40.32
+          },
+          {
+            "molecule": "MOLH1",
+            "formulation": "Inhaler",
+            "country": "Australia",
+            "year": 2019,
+            "import_tonnes": 197.75,
+            "export_tonnes": 28.45
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Patent Landscape Agent",
+      "summary": "Found 151 relevant patents. Earliest expiry year: 2005.",
+      "data": {
+        "patents": [
+          {
+            "patent_id": "US1000444",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "PrimeCare",
+            "filing_year": 2013,
+            "expiry_year": 2025,
+            "status": "Granted",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1000823",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "NovaCure",
+            "filing_year": 2007,
+            "expiry_year": 2020,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1001818",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "Sunrise Therapeutics",
+            "filing_year": 1997,
+            "expiry_year": 2020,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1002894",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "PrimeCare",
+            "filing_year": 2017,
+            "expiry_year": 2040,
+            "status": "Pending",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003274",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "OncoGenix",
+            "filing_year": 1998,
+            "expiry_year": 2011,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003281",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "XYZ Pharma",
+            "filing_year": 2021,
+            "expiry_year": 2032,
+            "status": "Granted",
+            "fto_flag": "High"
+          },
+          {
+            "patent_id": "US1003316",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "OncoGenix",
+            "filing_year": 2001,
+            "expiry_year": 2025,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1003368",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "MedLife Corp",
+            "filing_year": 2013,
+            "expiry_year": 2034,
+            "status": "Pending",
+            "fto_flag": "Medium"
+          },
+          {
+            "patent_id": "US1004566",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "ABC Pharma",
+            "filing_year": 2016,
+            "expiry_year": 2036,
+            "status": "Expired",
+            "fto_flag": "Low"
+          },
+          {
+            "patent_id": "US1005082",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "assignee": "OncoGenix",
+            "filing_year": 2005,
+            "expiry_year": 2014,
+            "status": "Granted",
+            "fto_flag": "Medium"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Clinical Trials Agent",
+      "summary": "Found 19 clinical trials matching the criteria.",
+      "data": {
+        "table": [
+          {
+            "trial_id": "CT-007766",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase I",
+            "status": "Active",
+            "sponsor": "XYZ Pharma",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-009959",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Terminated",
+            "sponsor": "MedLife Corp",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-012165",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase I",
+            "status": "Terminated",
+            "sponsor": "ABC Pharma",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-015426",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase IV",
+            "status": "Completed",
+            "sponsor": "OncoGenix",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-019127",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Active",
+            "sponsor": "MedLife Corp",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-026602",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase II",
+            "status": "Active",
+            "sponsor": "MedLife Corp",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-027368",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Suspended",
+            "sponsor": "PrimeCare",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-039492",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Terminated",
+            "sponsor": "XYZ Pharma",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-052534",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase III",
+            "status": "Recruiting",
+            "sponsor": "Sunrise Therapeutics",
+            "country": "Australia"
+          },
+          {
+            "trial_id": "CT-055689",
+            "molecule": "MOLH1",
+            "indication": "Lung Cancer",
+            "phase": "Phase IV",
+            "status": "Active",
+            "sponsor": "XYZ Pharma",
+            "country": "Australia"
+          }
+        ]
+      }
+    },
+    {
+      "agent_name": "Internal Knowledge Agent",
+      "summary": "The assessment did not find any direct connection between MOLH1 and the provided internal strategy/field documents, specifically Asthma Market & Unmet Needs. Therefore, we cannot assess the Lung Cancer market opportunity for MOLH1 in Australia based on the provided context.",
+      "data": {
+        "documents": [
+          "asthma_strategy_2024.pdf",
+          "respiratory_field_insights.pdf"
+        ],
+        "key_opportunities": [],
+        "key_risks": []
+      }
+    }
   ]
 }

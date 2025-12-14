@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Report - Pharma Agentic AI</title>
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="stylesheet" href="assets/css/report.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <!-- Report Header -->
+    <header class="report-header">
+        <div class="report-header-content">
+            <div class="report-header-left">
+                <button class="btn-back" id="btn-back">
+                    <i class="fas fa-arrow-left"></i>
+                    Back to Chat
+                </button>
+                <div class="report-title">
+                    <h1>Opportunity Analysis Report</h1>
+                    <div class="report-meta">
+                        <span class="meta-item">
+                            <i class="fas fa-molecule"></i>
+                            <span id="report-molecule">MOLX</span>
+                        </span>
+                        <span class="meta-item">
+                            <i class="fas fa-stethoscope"></i>
+                            <span id="report-therapy">Asthma</span>
+                        </span>
+                        <span class="meta-item">
+                            <i class="fas fa-globe"></i>
+                            <span id="report-region">India</span>
+                        </span>
+                        <span class="meta-item">
+                            <i class="fas fa-calendar"></i>
+                            <span id="report-date">Today</span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div class="report-header-right">
+                <button class="btn-download" id="btn-download-pdf">
+                    <i class="fas fa-file-pdf"></i>
+                    Download PDF
+                </button>
+                <button class="btn-share" id="btn-share-report">
+                    <i class="fas fa-share"></i>
+                    Share
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Report Content -->
+    <main class="report-content">
+        <!-- Executive Summary Card -->
+        <section class="report-section" id="executive-summary">
+            <div class="section-header">
+                <h2>
+                    <i class="fas fa-file-alt"></i>
+                    Executive Summary
+                </h2>
+                <div class="opportunity-score" id="opportunity-score">
+                    <div class="score-circle">
+                        <span class="score-value">78%</span>
+                    </div>
+                    <div class="score-label">
+                        <span>Opportunity Score</span>
+                        <span class="score-category">High Potential</span>
+                    </div>
+                </div>
+            </div>
+            <div class="section-content">
+                <div class="summary-text" id="summary-text">
+                    Loading executive summary...
+                </div>
+                <div class="summary-metrics">
+                    <div class="metric-card">
+                        <div class="metric-icon market">
+                            <i class="fas fa-chart-line"></i>
+                        </div>
+                        <div class="metric-content">
+                            <h4>Market Potential</h4>
+                            <div class="metric-value" id="metric-market-value">$2.4B</div>
+                            <div class="metric-trend positive" id="metric-market-trend">
+                                <i class="fas fa-arrow-up"></i>
+                                12% CAGR
+                            </div>
+                        </div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-icon patent">
+                            <i class="fas fa-scale-balanced"></i>
+                        </div>
+                        <div class="metric-content">
+                            <h4>Patent Risk</h4>
+                            <div class="metric-value" id="metric-patent-value">Medium</div>
+                            <div class="metric-trend neutral" id="metric-patent-trend">
+                                3 years to expiry
+                            </div>
+                        </div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-icon trial">
+                            <i class="fas fa-vial-circle-check"></i>
+                        </div>
+                        <div class="metric-content">
+                            <h4>Clinical Activity</h4>
+                            <div class="metric-value" id="metric-trial-value">High</div>
+                            <div class="metric-trend positive" id="metric-trial-trend">
+                                8 active trials
+                            </div>
+                        </div>
+                    </div>
+                    <div class="metric-card">
+                        <div class="metric-icon trade">
+                            <i class="fas fa-globe"></i>
+                        </div>
+                        <div class="metric-content">
+                            <h4>Trade Flow</h4>
+                            <div class="metric-value" id="metric-trade-value">Balanced</div>
+                            <div class="metric-trend neutral" id="metric-trade-trend">
+                                Import/Export ratio: 1.2
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Opportunity Radar -->
+        <section class="report-section" id="opportunity-radar-section">
+            <div class="section-header">
+                <h2>
+                    <i class="fas fa-radar"></i>
+                    Opportunity Radar Analysis
+                </h2>
+                <button class="btn-export-chart" id="btn-export-radar">
+                    <i class="fas fa-download"></i>
+                    Export Chart
+                </button>
+            </div>
+            <div class="section-content">
+                <div class="radar-container">
+                    <div class="radar-chart">
+                        <canvas id="radar-chart"></canvas>
+                    </div>
+                    <div class="radar-legend" id="radar-legend">
+                        <!-- Legend will be populated by JS -->
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Agent Results Tabs -->
+        <section class="report-section" id="agent-results">
+            <div class="section-header">
+                <h2>
+                    <i class="fas fa-robot"></i>
+                    Agent Results
+                </h2>
+                <div class="section-tabs" id="agent-tabs">
+                    <!-- Tabs will be populated by JS -->
+                </div>
+            </div>
+            <div class="section-content">
+                <div class="agent-results-container" id="agent-results-container">
+                    <!-- Agent results will be populated by JS -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Detailed Insights -->
+        <section class="report-section" id="detailed-insights">
+            <div class="section-header">
+                <h2>
+                    <i class="fas fa-lightbulb"></i>
+                    Strategic Insights & Recommendations
+                </h2>
+            </div>
+            <div class="section-content">
+                <div class="insights-grid">
+                    <div class="insight-card opportunity">
+                        <div class="insight-header">
+                            <h3>
+                                <i class="fas fa-bullseye"></i>
+                                Key Opportunities
+                            </h3>
+                        </div>
+                        <div class="insight-content">
+                            <ul class="insight-list" id="opportunities-list">
+                                <!-- Will be populated by JS -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="insight-card risk">
+                        <div class="insight-header">
+                            <h3>
+                                <i class="fas fa-exclamation-triangle"></i>
+                                Major Risks
+                            </h3>
+                        </div>
+                        <div class="insight-content">
+                            <ul class="insight-list" id="risks-list">
+                                <!-- Will be populated by JS -->
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="insight-card action">
+                        <div class="insight-header">
+                            <h3>
+                                <i class="fas fa-play-circle"></i>
+                                Recommended Actions
+                            </h3>
+                        </div>
+                        <div class="insight-content">
+                            <ul class="insight-list" id="actions-list">
+                                <!-- Will be populated by JS -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Raw Data Section (Collapsible) -->
+        <section class="report-section" id="raw-data">
+            <div class="section-header collapsible" data-target="raw-data-content">
+                <h2>
+                    <i class="fas fa-database"></i>
+                    Raw Data & Analysis
+                    <i class="fas fa-chevron-down"></i>
+                </h2>
+            </div>
+            <div class="section-content" id="raw-data-content" style="display: none;">
+                <div class="data-tables" id="data-tables">
+                    <!-- Data tables will be populated by JS -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Report Footer -->
+    <footer class="report-footer">
+        <div class="footer-content">
+            <div class="footer-info">
+                <div class="report-id">
+                    <strong>Report ID:</strong> <span id="report-id">RPT-2024-001</span>
+                </div>
+                <div class="generated-time">
+                    <strong>Generated:</strong> <span id="generated-time">Just now</span>
+                </div>
+            </div>
+            <div class="footer-actions">
+                <button class="btn-print" id="btn-print">
+                    <i class="fas fa-print"></i>
+                    Print Report
+                </button>
+                <button class="btn-new-analysis" id="btn-new-analysis">
+                    <i class="fas fa-plus"></i>
+                    New Analysis
+                </button>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/utils.js"></script>
+    <script src="assets/js/report.js"></script>
+</body>
+</html>

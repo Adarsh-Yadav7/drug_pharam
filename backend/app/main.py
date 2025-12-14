@@ -86,3 +86,17 @@ def download_report(report_id: str):
         media_type="application/pdf",
         filename=f"pharma_report_{report_id}.pdf",
     )
+
+# ✅ 4️⃣ FastAPI backend run karo (MAIN COMMAND 🚀)
+# 👉 Recommended (development mode, auto-reload):
+# uvicorn app.main:app --reload
+
+# 👉 Agar port specify karna ho:
+# uvicorn app.main:app --reload --port 8000
+
+# ✅ 5️⃣ Browser me check karo
+# Health check:
+# http://127.0.0.1:8000/health
+
+# Swagger UI (VERY IMPORTANT 🔥):
+# http://127.0.0.1:8000/docs

@@ -9,6 +9,5 @@ langchain
 langchain-community
 faiss-cpu
 sentence-transformers
-
 # ----- LLM Client (Groq) -----
 groq
