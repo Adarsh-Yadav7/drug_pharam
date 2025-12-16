@@ -12,6 +12,8 @@ from .services.opportunity_engine import compute_factor_scores, compute_overall_
 from .config import APP_NAME, APP_VERSION, REPORTS_DIR
 
 from dotenv import load_dotenv
+import os  # ✅ YEH ADD KARO
+
 load_dotenv()
 
 app = FastAPI(title=APP_NAME, version=APP_VERSION)
@@ -24,21 +26,16 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 @app.on_event("startup")
 def startup_event():
     load_memory_from_disk()
-
 
 @app.get("/health")
 def health_check():
     return {"status": "ok"}
 
-
-# 👇 YAHAN SE IMPORTANT CHANGE: response_model hata diya
 @app.post("/api/query")
 def query_master(req: QueryRequest):
-
     # 1) Run worker agents
     agent_results: List[AgentResult] = run_master_agent(req)
 
@@ -46,9 +43,9 @@ def query_master(req: QueryRequest):
     overall = build_overall_summary(agent_results)
 
     # 3) Compute factor scores + overall index
-    factor_scores_dict = compute_factor_scores(agent_results)   # e.g. {"market": 8.5, ...}
+    factor_scores_dict = compute_factor_scores(agent_results)
     overall_index_0_10 = compute_overall_index(factor_scores_dict)
-    smart_score = max(0.0, min(1.0, overall_index_0_10 / 10.0))  # 0–1
+    smart_score = max(0.0, min(1.0, overall_index_0_10 / 10.0))
 
     final_score = smart_score
 
@@ -65,18 +62,15 @@ def query_master(req: QueryRequest):
             tasks=req.tasks or ["market", "exim", "patent", "trials", "internal", "web"],
         )
 
-    # Debug print (optional, but helpful)
     print("FACTOR_SCORES_BACKEND:", factor_scores_dict)
 
-    # 5) Raw dict return so FastAPI kuch filter na kare
     return {
         "overall_summary": overall,
         "opportunity_score": final_score,
-        "agent_results": [r.dict() for r in agent_results],  # Pydantic models -> dict
+        "agent_results": [r.dict() for r in agent_results],
         "report_id": report_id,
         "factor_scores": factor_scores_dict,
     }
-
 
 @app.get("/api/report/{report_id}")
 def download_report(report_id: str):
@@ -87,16 +81,20 @@ def download_report(report_id: str):
         filename=f"pharma_report_{report_id}.pdf",
     )
 
-# ✅ 4️⃣ FastAPI backend run karo (MAIN COMMAND 🚀)
-# 👉 Recommended (development mode, auto-reload):
-# uvicorn app.main:app --reload
+# ===========================================
+# ✅ ADD THESE LINES AT THE VERY END
+# ===========================================
 
-# 👉 Agar port specify karna ho:
-# uvicorn app.main:app --reload --port 8000
-
-# ✅ 5️⃣ Browser me check karo
-# Health check:
-# http://127.0.0.1:8000/health
-
-# Swagger UI (VERY IMPORTANT 🔥):
-# http://127.0.0.1:8000/docs
+if __name__ == "__main__":
+    import uvicorn
+    
+    # Render provides PORT environment variable
+    port = int(os.environ.get("PORT", 10000))
+    
+    # IMPORTANT: String format mein app reference
+    uvicorn.run(
+        "app.main:app",    # Yeh string format important hai
+        host="0.0.0.0",
+        port=port,
+        reload=False       # Production mein False rakho
+    )
